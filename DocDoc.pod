@@ -1,0 +1,38 @@
+=pod
+
+=encoding utf8
+
+=head1 Name
+
+QuiQuoQua -
+
+
+=head1 Description
+
+E<hellip>
+
+=over 4
+
+=item * E<hellip>
+
+=back
+
+=head1 Code Repository
+
+L<http://github.com/pangyre/QuiQuoQua>.
+
+=head1 See Also
+
+E<hellip>
+
+
+=head1 Author
+
+Ashley Pond V E<middot> ashley.pond.v@gmail.com E<middot> L<http://pangyresoft.com>.
+
+=head1 License
+
+Artistic 2.0.
+
+=cut
+
